@@ -14,7 +14,7 @@ int main(int argc, const char * argv[]) {
     NSString *bottomLine = @"+------------------------------------------+";
     NSString *periodArray[] = {@"|A|", @"|B|", @"|C|", @"|D|"};
     NSString *classArray[] = {@"Integrity Protocol", @"Liptogrammic Maths", @"Cat Fancy", @"Fomrat"};
-    NSString *teacherArray[] = {@"Mr. Gibbs", @"Mrs. Gobbs", @"Dr. Gubbs", @"Ms. Gebbs"};
+    NSString *teacherArray[] = {@"Mr. Gobbs", @"Mrs. Gobbs", @"Dr. Gubbs", @"Ms. Gebbs"};
     NSLog(@"%@", topLine);
     NSLog(@"%@ %@ %@", periodArray[0], classArray[0], teacherArray[0]);
     NSLog(@"%@ %@ %@", periodArray[1], classArray[1], teacherArray[1]);
