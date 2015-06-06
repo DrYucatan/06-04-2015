@@ -10,6 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     
+    int i = 0;
 //      NSString *daysOfChristmas[] = {@"First", @"Second", @"Third", @"Fourth", @"Fifth", @"Sixth", @"Seventh", @"Eighth", @"Ninth", @"Tenth", @"Eleventh", @"Twelfth"};
 //    NSString *thingsMyTrueLoveGaveToMe[] = {@"a partridge in a pear tree", @"two turtledoves", @"three French hens", @"four calling birds", @"FIVE GOLD RINGS", @"six geese a-laying", @"seven swans a-swimming", @"eight maids a-milking", @"nine ladies dancing", @"ten lords a-leaping", @"eleven pipers piping", @"twelve drummers drumming"};
 //    NSString *lotsOfGifts = {@"And"};
@@ -22,6 +23,7 @@ int main(int argc, const char * argv[]) {
 //            lotsOfGifts = [thingsMyTrueLoveGaveToMe[i] stringByAppendingString:lotsOfGifts];
 //        }
 //    }
+    
     
     
 
